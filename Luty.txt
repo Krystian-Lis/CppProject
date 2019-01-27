@@ -1,0 +1,24 @@
+bialy
+skora
+1
+160
+zaokraglony
+160
+czarny
+eko skora
+2
+180
+prosty
+180
+szary
+skora licowa
+3
+200
+pikowany
+200
+bezowy
+tkanina
+1
+160
+brak
+160

@@ -1,0 +1,24 @@
+szary
+skora licowa
+3
+200
+pikowany
+200
+bezowy
+tkanina
+3
+200
+brak
+200
+czarny
+skora
+1
+160
+zaokraglony
+160
+szary
+skora
+1
+160
+zaokraglony
+160
